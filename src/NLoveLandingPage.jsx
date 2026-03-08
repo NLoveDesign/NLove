@@ -14,17 +14,6 @@ const SEO = {
   ogLocale: "en_GB",
   ogLocaleAlt: "nl_NL"
 };
-  title: "NLove - Landing page",
-  description:
-    "NLove is an independent project inspired by Dutch design culture — architecture, urban life, objects and everyday beauty.",
-  ogTitle: "NLove",
-  ogDescription:
-    "Inspired by the Dutch. Design, culture and everyday life.",
-  ogType: "website",
-  ogImage: "/og-nlove.jpg",
-  ogLocale: "en_GB",
-  ogLocaleAlt: "nl_NL"
-};
 
 const copy = {
   en: {
