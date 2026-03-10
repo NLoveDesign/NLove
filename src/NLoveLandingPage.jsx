@@ -331,7 +331,7 @@ export default function NLoveLandingPage() {
 
               <p className="copy">
                 NLove is taking shape as a cultural design brand inspired by the Netherlands.
-                Instead of rushing a half‑finished shop online, we preferred to leave this
+                Instead of rushing a half-finished shop online, we preferred to leave this
                 small marker here. A quiet sign that something considered is on its way.
               </p>
 
@@ -359,7 +359,7 @@ export default function NLoveLandingPage() {
 
             <div className="lang-nl">
               <h1 className="title">
-                Geen gewone coming‑soon pagina.
+                Geen gewone coming-soon pagina.
                 <span>Hier wordt iets gebouwd dat bedoeld is om te blijven.</span>
               </h1>
 
@@ -383,7 +383,7 @@ export default function NLoveLandingPage() {
                 </div>
                 <div className="card">
                   <h3>Minimalistische grafische taal</h3>
-                  <p>Heldere line‑art illustraties geïnspireerd door architectuur en stedelijke vormen.</p>
+                  <p>Heldere line-art illustraties geïnspireerd door architectuur en stedelijke vormen.</p>
                 </div>
                 <div className="card">
                   <h3>Culturele objecten</h3>
@@ -391,7 +391,7 @@ export default function NLoveLandingPage() {
                 </div>
               </div>
             </div>
-            </div>
+          </div>
 
           <aside className="panel">
             <div className="panel-en">
@@ -419,7 +419,7 @@ export default function NLoveLandingPage() {
                     <div className="step-num">02</div>
                     <div>
                       <h3 className="step-title">No rushed release</h3>
-                      <p className="step-copy">Better a short silence than a half‑made result. What goes live should already feel clear.</p>
+                      <p className="step-copy">Better a short silence than a half-made result. What goes live should already feel clear.</p>
                     </div>
                   </div>
                 </div>
@@ -439,6 +439,7 @@ export default function NLoveLandingPage() {
                 <h3 className="notice-title">Come back later and see the difference.</h3>
                 <p className="notice-copy">For now, this page simply marks the start. The full site will follow once the first public expression is ready.</p>
                 <div className="notice-foot">First impression now. Full experience later.</div>
+                <a className="contact-btn" href="mailto:areyou@nlove.nl">Contact</a>
               </div>
             </div>
 
@@ -487,6 +488,7 @@ export default function NLoveLandingPage() {
                 <h3 className="notice-title">Kom later terug en zie het verschil.</h3>
                 <p className="notice-copy">Voor nu markeert deze pagina alleen het begin. De volledige site volgt zodra de eerste publieke vorm klaar is.</p>
                 <div className="notice-foot">Eerste indruk nu. Volledige ervaring later.</div>
+                <a className="contact-btn" href="mailto:areyou@nlove.nl">Contact</a>
               </div>
             </div>
           </aside>
