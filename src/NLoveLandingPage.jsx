@@ -268,6 +268,31 @@ export default function NLoveLandingPage() {
           background:rgba(255,255,255,.65);
         }
 
+        .contact-btn{
+          margin-top:16px;
+          display:inline-block;
+          padding:10px 16px;
+          border-radius:999px;
+          font-size:13px;
+          text-decoration:none;
+          font-weight:600;
+          border:1px solid rgba(255,255,255,.25);
+        }
+
+        .panel-en .contact-btn{
+          background:var(--orange3);
+          color:#fff;
+        }
+
+        .panel-nl .contact-btn{
+          background:var(--blue3);
+          color:#fff;
+        }
+
+        .contact-btn:hover{
+          opacity:.9;
+        }
+
         .panel-block{
           margin-top:20px;
           border-top:1px solid rgba(255,255,255,.18);
